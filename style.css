@@ -21,7 +21,7 @@ html, body{
     font-size: 2rem;
     font-weight: 600;
 }
-/* Margin och padding */
+/* Margin*/
 #margin-box{
     background-color: black;
     width: 80px;
@@ -29,7 +29,7 @@ html, body{
     margin: auto;
     border: blue solid 2px;
 }
-
+/* Padding */
 #padding-box{
     background-color: red;
     height: 30px;
